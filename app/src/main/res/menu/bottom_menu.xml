@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_good"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sentiment_very_satisfied_24"
+        android:title="@string/good"/>
+    <item
+        android:id="@+id/fragment_bad"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sentiment_very_dissatisfied_24"
+        android:title="@string/bad"/>
+</menu>
